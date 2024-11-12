@@ -11,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Alfr3d022&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alfr3d022&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfr3d022&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Alfr3d022&icon=0&color=12)](https://visitcount.itsvg.in)
 
