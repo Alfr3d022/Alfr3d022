@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Olá, sou Alfredo!
-
+👋 I'm a Junior DevOps professional focused on process automation, continuous integration, and infrastructure as code. I have experience with tools like Kubernetes, Docker, Jenkins, Zabbix, Grafana, and n8n, as well as scripting with Shell and Python. I'm also familiar with networking, Linux/Windows servers, and low-code solutions. I'm always looking to improve systems and deliver efficient, scalable solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredo-pina-83b9a0228) 
