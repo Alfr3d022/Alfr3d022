@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub language
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfr3d022&layout=compact&card_width=1000&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=0&hide_border=true" alt="Top Languages" />
