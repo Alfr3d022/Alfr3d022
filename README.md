@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-👋 I'm a Junior DevOps professional focused on process automation, continuous integration, and infrastructure as code. I have experience with tools like Kubernetes, Docker, Jenkins, Zabbix, Grafana, and n8n, as well as scripting with Shell and Python. I'm also familiar with networking, Linux/Windows servers, and low-code solutions. I'm always looking to improve systems and deliver efficient, scalable solutions.
+👋 I'm a DevOps professional focused on process automation, continuous integration, and infrastructure as code. I have experience with tools like Kubernetes, Docker, Jenkins, Zabbix, Grafana, and n8n, as well as scripting with Shell and Python. I'm also familiar with networking, Linux/Windows servers, and low-code solutions. I'm always looking to improve systems and deliver efficient, scalable solutions.
 
 ---
 
